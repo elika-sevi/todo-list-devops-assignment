@@ -1,0 +1,12 @@
+{
+  "name": "todo-list-devops-assignment",
+  "version": "1.0.0",
+  "description": "Advanced Git & DevOps Assignment",
+  "scripts": {
+    "test": "echo \"Tests completed\"",
+    "build": "echo \"Build completed\"",
+    "lint": "echo \"Lint check completed\""
+  },
+  "author": "",
+  "license": "ISC"
+}
